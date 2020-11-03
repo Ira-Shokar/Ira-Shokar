@@ -14,6 +14,7 @@ I am interested in:
  - Board Games
  - Quizzes
  - Sport (Rugby, Squash, Tennis, Cricket, Korfball, Basketball)
+ - Animals
  
  Do reach out to me if you'd like to collaborate or just chat about any of the above, or anything else for that matter!
 
