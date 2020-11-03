@@ -12,7 +12,7 @@ I am interested in:
  - :snake: Python
  - :computer: Unix Systems
  - :game_die: Board Games
- - Quizzes
+ - :memo: Quizzes
  - :cricket_game: Sport (Rugby, Squash, Tennis, Cricket, Korfball, Basketball, Cycling)
  - :dog: Animals
  
