@@ -1,16 +1,18 @@
-### Hi there 👋
+### I am a Postgradute Student at the University of Cambridge as part of the Centre for Doctoral Study in the Application of Artificial Intellegence for Environmental Risk.
 
-<!--
-**Ira-Shokar/Ira-Shokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in:
+ - Deep Learning
+ - Atmospheric and Oceanic Dynamics
+ - Chaotic Systems
+ - Adversarial Models
+ - Model Downscalling
+ - Applied Mathematics 
+ - PDEs
+ - Physics
+ - Python
+ - Unix Systems
+ - Board Games
+ - Quizzes
+ - Sport (Rugby, Squash, Tennis, Cricket, Korfball, Basketball)
+ 
+ Do reach out to me if you'd like to collaborate or just chat about any of the above, or anything else for that matter
