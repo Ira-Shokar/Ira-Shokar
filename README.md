@@ -1,20 +1,20 @@
 ### Postgradute Student at the University of Cambridge as part of the Centre for Doctoral Study in the Application of Artificial Intellegence for Environmental Risk.
 
 I am interested in:
- - 易 Deep Learning
- -  Atmospheric and Oceanic Dynamics
- -  Chaotic Systems
+ - Deep Learning
+ - Atmospheric and Oceanic Dynamics
+ - Chaotic Systems
  - Adversarial Models
  - Model Downscalling
  - Applied Mathematics 
  - PDEs
  - Physics
- -  Python
+ - Python
  - Unix Systems
  - Board Games
  - Quizzes
- -  Sport (Rugby, Squash, Tennis, Cricket, Korfball, Basketball)
- -  Animals
+ - Sport (Rugby, Squash, Tennis, Cricket, Korfball, Basketball)
+ - Animals
  
  Do reach out to me if you'd like to collaborate or just chat about any of the above, or anything else for that matter!
 
