@@ -9,8 +9,8 @@ I am interested in:
  - :chart_with_upwards_trend: Applied Mathematics 
  - :cyclone: PDEs
  - :milky_way: Physics
- - :snake: Python
- - :computer: Unix Systems
+ - :snake: Python Development
+ - :computer: Unix-like Systems
  - :game_die: Board Games
  - :memo: Quizzes
  - :cricket_game: Sport (Rugby, Squash, Tennis, Cricket, Korfball, Basketball, Cycling)
