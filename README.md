@@ -11,7 +11,7 @@ I am interested in:
  - :milky_way: Physics
  - :snake: Python Development
  - :computer: Unix-like Systems
- - :map: Maps
+ - :world_map: Maps
  - :game_die: Board Games
  - :memo: Quizzes
  - :cricket_game: Sport (Rugby, Squash, Tennis, Cricket, Korfball, Basketball, Cycling)
