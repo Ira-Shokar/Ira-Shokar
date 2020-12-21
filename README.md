@@ -1,4 +1,4 @@
-### :mortar_board: Postgradute Student at the University of Cambridge as part of the Centre for Doctoral Study in the Application of Artificial Intellegence for Environmental Risk.
+### :mortar_board: Postgradute Student at the University of Cambridge as part of the Centre for Doctoral Training in the Application of Artificial Intellegence for Environmental Risk.
 
 I am interested in:
  - :brain: Deep Learning
