@@ -5,10 +5,6 @@ I am interested in:
  - :earth_africa: Atmospheric and Oceanic Dynamics
  - :ocean: Chaotic Systems
  - :arrows_clockwise: Adversarial Models
- - :globe_with_meridians: Model Downscalling
- - :chart_with_upwards_trend: Applied Mathematics 
- - :cyclone: PDEs
- - :milky_way: Physics
  - :snake: Python Development
  - :computer: Unix-like Systems
  - :world_map: Maps
@@ -18,5 +14,3 @@ I am interested in:
  - :dog: Animals
  
  Do reach out to me if you'd like to collaborate or just chat about any of the above, or anything else for that matter!
-
-
