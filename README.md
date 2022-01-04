@@ -1,1 +1,1 @@
-### :mortar_board: Postgradute Student at the University of Cambridge as part of the Centre for Doctoral Training in the Application of Artificial Intellegence for Environmental Risk.
+### :mortar_board: PhD Student at the University of Cambridge's Department of Applied Mathematica and Theoretical Physics as part of the UKRI Centre for Doctoral Training in the Application of Artificial Intellegence for Environmental Risk.
